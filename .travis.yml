@@ -22,4 +22,4 @@ deploy:
   env: "elastic-beanstalk-tutorial-dev"
   bucket_name: "elasticbeanstalk-group17"
   on:
-    branch: master
+    branch: main
